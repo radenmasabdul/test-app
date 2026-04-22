@@ -112,7 +112,7 @@ export default function AppSidebar() {
         <img src={Logo} alt="Logo" className="h-9 w-9" />
         {!isCollapsed && (
           <span className="text-lg font-semibold tracking-tight font-mono text-emerald-800 dark:text-white">
-            Observa Nexus
+            My App Test
           </span>
         )}
       </div>
